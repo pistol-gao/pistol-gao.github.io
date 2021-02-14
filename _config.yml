@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: pistol-gao.github.io
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: pistol-gao
 language: en
 timezone: ''
 
@@ -104,5 +104,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  branch: git@github.com:pistol-gao/pistol-gao.github.io.git
+  repo: git@github.com:pistol-gao/pistol-gao.github.io.git
   branch: gh-pages
