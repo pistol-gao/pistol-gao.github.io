@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://pistol-gao.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -103,4 +103,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  branch: git@github.com:pistol-gao/pistol-gao.github.io.git
+  branch: gh-pages
