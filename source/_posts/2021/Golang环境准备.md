@@ -1,6 +1,7 @@
 layout: "post"
 title: "Golang环境准备"
 date: "2021-02-14 17:38"
+tag:"golang"
 ---
 # GOPATH作用
 1. The Go path is used to resolve import statements
